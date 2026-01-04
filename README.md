@@ -1,16 +1,21 @@
-## Hi there 👋
+# Marwan Farid 🚀
 
-<!--
-**Marwan-farid-2/Marwan-farid-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Odoo Developer | Python & XML Wizard | ERP Enthusiast**
 
-Here are some ideas to get you started:
+Hi! I'm Marwan, a passionate **Odoo developer** mastering versions **13, 16 & 17**.  
+I bring ERP workflows to life by turning complex business processes into **clean, automated, and efficient solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I do:**  
+- Develop **custom Odoo modules** using Python & XML.  
+- Build **dynamic forms, kanban, tree & dashboard views**.  
+- Integrate **CRM, Sales, Purchase & Accounting flows** seamlessly.  
+- Optimize **business processes** for speed, accuracy, and clarity.
+
+⚡ **Skills & Tools:**  
+- Python 🐍, XML 📄, Odoo Studio, PostgreSQL 🗄️  
+- ERP workflows, automation, reporting, smart buttons & dashboards  
+- Debugging, performance tuning, and best practices in Odoo development
+
+🌟 **Fun Fact:** I love turning business chaos into **well-structured, fully automated systems**.
+
+Let's build smarter ERP systems together! 🚀
