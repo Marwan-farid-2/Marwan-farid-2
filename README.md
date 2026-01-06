@@ -3,7 +3,7 @@
 **Odoo Developer | Python & XML | ERP Enthusiast**
            
 
-Hi! I'm Marwan, a passionate **Odoo developer** mastering versions **13, 16 & 17**.  
+Hi! I'm Marwan, a passionate **Odoo developer** multiple versions .  
 I bring ERP workflows to life by turning complex business processes into **clean, automated, and efficient solutions**.
 
 💡 **What I do:**  
